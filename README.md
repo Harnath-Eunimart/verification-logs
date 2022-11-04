@@ -1,2 +1,2 @@
 # Verification Logs
-Verification logs for participants
+Verification logs for participant
